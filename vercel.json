@@ -1,0 +1,24 @@
+{
+    "routes": [
+        {
+            "src": "/json/stats.json",
+            "dest": "https://tz.981822.xyz/json/stats.json"
+        },
+        {
+            "src": "/detail",
+            "dest": "https://tz.981822.xyz/detail"
+        },
+        {
+            "src": "/map",
+            "dest": "https://tz.981822.xyz/map"
+        },
+        {
+            "src": "/i",
+            "dest": "https://tz.981822.xyz/i"
+        },
+        {
+            "src": "/report",
+            "dest": "https://tz.981822.xyz/report"
+        }
+    ]
+}
